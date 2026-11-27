@@ -7,6 +7,7 @@
   <a href="https://remintui.github.io/assets/Remi-Ntui-Resume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-22d3ee?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/remintui"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://flowopai.com"><img src="https://img.shields.io/badge/FlowOps_AI-Live-22c55e?style=for-the-badge"></a>
+  <a href="https://pioneertechinstitute.com/"><img src="https://img.shields.io/badge/PioneerTech_Institute-Visit-6366f1?style=for-the-badge"></a>
   <a href="https://studio.flowopai.com"><img src="https://img.shields.io/badge/Cinema_Studio-Live-22c55e?style=for-the-badge"></a>
   <a href="mailto:remintui@gmail.com"><img src="https://img.shields.io/badge/Email-remintui%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -16,6 +17,7 @@
 ### 🚀 About me
 - 🏢 **Microsoft, Support Escalation Engineer – Azure Linux (2018–2026):** 2,000+ escalations for Fortune 500 companies, 3 security bugs found in Entra ID SSH login on Linux, Azure Linux Academy trainer
 - ⚡ **RemiRose Corporation, Technical Program Lead:** designing and shipping production AI agent systems on AWS
+- 🏫 Founder of **[PioneerTech Institute](https://pioneertechinstitute.com/)** — training in AI Integration Engineering and Cloud Computing
 - 🛠️ Build daily with **Claude Code** and **OpenAI Codex**; AI agents in CI with automated tests and evaluation gates
 - 💡 *Treat AI output as a fast first draft. Enforce what matters in code and tests.*
 - 📍 Wichita Falls, TX · open to remote / hybrid / onsite · 🗣️ English & French
