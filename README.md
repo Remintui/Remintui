@@ -18,6 +18,7 @@
 - 🏢 **Microsoft, Support Escalation Engineer – Azure Linux (2018–2026):** 2,000+ escalations for Fortune 500 companies, 3 security bugs found in Entra ID SSH login on Linux, Azure Linux Academy trainer
 - ⚡ **RemiRose Corporation, Technical Program Lead:** designing and shipping production AI agent systems on AWS
 - 🏫 Founder of **[PioneerTech Institute](https://pioneertechinstitute.com/)** — training in AI Integration Engineering and Cloud Computing
+- ⛪ **Program & Operations Lead / Lead Pastor, [Freedom Worldwide Mission](https://frwm.org)**
 - 🛠️ Build daily with **Claude Code** and **OpenAI Codex**; AI agents in CI with automated tests and evaluation gates
 - 💡 *Treat AI output as a fast first draft. Enforce what matters in code and tests.*
 - 📍 Wichita Falls, TX · open to remote / hybrid / onsite · 🗣️ English & French
