@@ -29,6 +29,7 @@
 | ⚡ **FlowOps AI** 🟢 | 11-agent AI workforce for service businesses — voice agent calls leads in minutes and books; 10 background agents run the client lifecycle. Gated on 45 safety tests + 29 E2E checks | [Website](https://flowopai.com) · [Portal](https://portal.flowopai.com) |
 | 📣 **FlowOps Ads** 🟢 | AI ad automation on the Meta Marketing API — AI creatives, budget shifts within hard caps, approval-gated | [Website](https://flowopads.com) · [Portal](https://app.flowopads.com) |
 | 🎬 **Cinema Studio** 🟢 | 14-role multi-agent AI film studio — JSON screenplay, Veo/Kling/Seedance routing, lip-sync retakes, approval gates | [Open the App](https://studio.flowopai.com) |
+| 📈 **AI Trader** 🟢 | Multi-asset AI trading assistant (stocks, crypto, forex, futures, options, indexes) with risk controls and daily targets | [Open the Portal](https://aitrader.flowopai.com) |
 | 🌍 **Glosavida** (formerly BitRemit) | Crypto → mobile-money remittances to Cameroon (MTN MoMo, Orange Money), KYC/AML/OFAC design | In architecture |
 | 🎥 **n8n AI Video Pipeline** | Automated multi-scene Veo video production | Demo on request |
 
